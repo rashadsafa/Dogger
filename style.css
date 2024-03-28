@@ -22,6 +22,18 @@ body {
 #carefor .imgbox {
   width: 500px;
 }
+@media screen and (max-width: 992px) {
+  #carefor .textbox h1 {
+    font-size: 40px;
+    text-align: center;
+  }
+  #carefor .textbox h4 {
+    font-size: 18px;
+  }
+  #carefor .imgbox {
+    width: 300px;
+  }
+}
 
 #welcome {
   padding: 40px 0;
