@@ -1,0 +1,317 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+.imgbox img {
+  width: 100%;
+}
+
+#carefor {
+  padding: 50px 0;
+}
+#carefor .textbox h1 {
+  font-weight: 700;
+  font-size: 60px;
+  margin: 0 0 10px;
+}
+#carefor .textbox h4 {
+  color: #a8a8a8;
+  font-size: 24px;
+}
+#carefor .imgbox {
+  width: 500px;
+}
+
+#welcome {
+  padding: 40px 0;
+}
+#welcome .textbox {
+  padding: 80px;
+}
+#welcome .textbox h1 {
+  font-weight: 700;
+  font-size: 30px;
+}
+#welcome .textbox h3 {
+  margin: 20px 0 40px;
+  color: #868686;
+  font-size: 20px;
+}
+#welcome .textbox h2, #welcome .textbox h6 {
+  margin: 15px 0;
+}
+#welcome .textbox h2 {
+  font-size: 33px;
+}
+#welcome .textbox h6 {
+  font-size: 18px;
+}
+#welcome .textbox .btn {
+  padding: 10px 30px;
+  border-radius: 20px;
+  background-color: #a7b59f;
+  color: white;
+}
+#welcome .wid {
+  width: 580px;
+  padding: 0;
+}
+
+#aboutus {
+  padding: 40px 0;
+}
+#aboutus .textbox {
+  padding: 0 100px;
+}
+#aboutus .textbox h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+#aboutus .textbox h2, #aboutus .textbox p {
+  font-size: 20px;
+  margin: 20px 0 0;
+  color: #a8a8a8;
+  font-weight: 100;
+  line-height: 1.6;
+}
+#aboutus .textbox p {
+  font-size: 18px;
+  color: #949494;
+  line-height: 1.4;
+}
+#aboutus .textbox li {
+  display: flex;
+  align-items: center;
+  padding: 20px 0 0 0;
+}
+#aboutus .textbox .icon {
+  padding: 0 15px 0 0;
+  color: #5e5656;
+}
+#aboutus .textbox h4 {
+  font-size: 20px;
+  color: #423737;
+}
+#aboutus .imgbox {
+  width: 450px;
+}
+
+#ourtrainers {
+  padding: 40px 0;
+}
+#ourtrainers h1 {
+  font-weight: 700;
+  font-size: 38px;
+}
+#ourtrainers h3, #ourtrainers h4 {
+  font-weight: 300;
+  font-size: 20px;
+  color: #a8a8a8;
+  margin: 20px 0;
+  line-height: 1.4;
+}
+#ourtrainers .box {
+  margin: 0 5px;
+}
+#ourtrainers .box .textbox {
+  padding: 15px;
+}
+#ourtrainers .box h2 {
+  font-weight: 300px;
+  font-size: 25px;
+  padding: 20px 0 0;
+}
+#ourtrainers .box ul {
+  display: flex;
+  flex-direction: row;
+}
+#ourtrainers .box ul li {
+  margin: 0 10px;
+  background-color: #d4cece;
+  border-radius: 50%;
+  padding: 20px;
+  width: 10px;
+  height: 10px;
+}
+#ourtrainers .box ul li .icon {
+  margin: -7px;
+}
+#ourtrainers .wid {
+  width: 500px;
+}
+
+#pricing {
+  padding: 40px 0;
+}
+#pricing .textbox {
+  width: 580px;
+  text-align: center;
+}
+#pricing .textbox h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+#pricing .textbox h5 {
+  font-weight: 200;
+  font-size: 20px;
+  color: #000000;
+  margin: 20px 0 50px;
+}
+#pricing .box {
+  width: 340px;
+  color: white;
+  background-color: #708f97;
+  padding: 50px 30px;
+  text-align: center;
+}
+#pricing .box h2 {
+  font-size: 25px;
+}
+#pricing .box h3 {
+  font-size: 30px;
+  margin: 20px 0 0;
+}
+#pricing .box li {
+  display: flex;
+  justify-content: center;
+  margin: 25px 0 0;
+}
+#pricing .box li h4 {
+  font-size: 18px;
+  margin: 0 0 0 10px;
+}
+#pricing .box .btn {
+  padding: 10px 35px;
+  margin: 30px 0 0;
+  border-radius: 30px;
+  background-color: #2b383c;
+  color: white;
+}
+#pricing .premium-color {
+  background-color: #2b383c;
+}
+#pricing .premium-color .btn {
+  background-color: #708f97;
+}
+
+#questions {
+  padding: 40px 0;
+}
+#questions .wid {
+  width: 580px;
+}
+#questions h1 {
+  font-weight: 700;
+  font-size: 36px;
+  margin: 15px 0;
+}
+#questions h3 {
+  font-size: 20px;
+  margin: 0 0 40px;
+  line-height: 1.4;
+}
+#questions .textbox {
+  padding: 0 70px;
+}
+#questions .textbox h2, #questions .textbox h4 {
+  font-size: 25px;
+  margin: 0 0 0 10px;
+  color: #717171;
+}
+#questions .textbox .minibox {
+  margin: 20px 0 0 0;
+}
+#questions .textbox h2 {
+  margin: 0 0 0 10px;
+}
+#questions .textbox p {
+  font-size: 20px;
+  color: #949494;
+  margin: 30px 0 0;
+}
+#questions .textbox li {
+  margin: 30px 0 0;
+  display: flex;
+}
+#questions .icon {
+  color: #d4cece;
+}
+#questions .icon i {
+  font-size: 22px;
+}
+#questions h3 {
+  font-size: 22px;
+  margin: 8px 0;
+}
+#questions .imgbox {
+  width: 500px;
+  height: 300px;
+  margin: 10px;
+}
+
+#blog {
+  padding: 40px 0;
+}
+#blog h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+#blog h3 {
+  font-size: 20px;
+  color: #9c8b8b;
+  margin: 30px 0 60px;
+}
+#blog .box {
+  display: flex;
+}
+#blog .textbox {
+  margin: 0 0 0 20px;
+}
+#blog .textbox h2 {
+  font-size: 22px;
+}
+#blog .textbox h4 {
+  font-size: 18px;
+  color: #aba8a8;
+}
+#blog .textbox p {
+  font-size: 18px;
+  color: #8f8686;
+}
+#blog .textbox p, #blog .textbox h4 {
+  margin: 20px 0 0;
+}
+#blog .wid {
+  width: 580px;
+}
+
+#services {
+  padding: 40px 0;
+}
+#services .wid {
+  width: 580px;
+}
+#services h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+#services h3 {
+  font-size: 20px;
+  color: #c6c6c6;
+  margin: 30px 0;
+}
+#services .textbox {
+  padding: 30px 40px;
+}
+#services .textbox .icon {
+  font-size: 60px;
+}
+#services .textbox h2 {
+  font-size: 25px;
+  color: #757575;
+  margin: 20px 0 0;
+}
+#services .textbox h3 {
+  margin: 30px 0 0;
+}/*# sourceMappingURL=style.css.map */
