@@ -26,11 +26,11 @@ body {
 }
 @media screen and (max-width: 992px) {
   #carefor .textbox h1 {
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
   }
   #carefor .textbox h4 {
-    font-size: 16px;
+    font-size: 20px;
   }
   #carefor .imgbox {
     width: 300px;
@@ -110,6 +110,11 @@ body {
 }
 #aboutus .imgbox {
   width: 450px;
+}
+@media screen and (max-width: 992px) {
+  #aboutus .imgbox {
+    width: 300px;
+  }
 }
 
 #ourtrainers {
