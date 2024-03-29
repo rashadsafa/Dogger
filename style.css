@@ -18,20 +18,23 @@ body {
 #carefor .textbox h4 {
   color: #a8a8a8;
   font-size: 24px;
+  display: flex;
+  justify-content: center;
 }
 #carefor .imgbox {
   width: 500px;
 }
 @media screen and (max-width: 992px) {
   #carefor .textbox h1 {
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
   }
   #carefor .textbox h4 {
-    font-size: 18px;
+    font-size: 16px;
   }
   #carefor .imgbox {
     width: 300px;
+    border-radius: 20px;
   }
 }
 
