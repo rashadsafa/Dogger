@@ -72,6 +72,11 @@ body {
   width: 580px;
   padding: 0;
 }
+@media screen and (max-width: 768px) {
+  #welcome .imgbox {
+    width: 280px;
+  }
+}
 
 #aboutus {
   padding: 40px 0;
