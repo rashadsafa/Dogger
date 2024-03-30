@@ -189,6 +189,7 @@ body {
   background-color: #708f97;
   padding: 50px 30px;
   text-align: center;
+  border-radius: 20px;
 }
 #pricing .box h2 {
   font-size: 25px;
