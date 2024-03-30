@@ -3,6 +3,10 @@ body {
   font-weight: 500;
 }
 
+.imgbox {
+  overflow: hidden;
+  border-radius: 20px;
+}
 .imgbox img {
   width: 100%;
 }
@@ -31,10 +35,6 @@ body {
   }
   #carefor .textbox h4 {
     font-size: 20px;
-  }
-  #carefor .imgbox {
-    width: 300px;
-    border-radius: 20px;
   }
 }
 
