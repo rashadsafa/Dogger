@@ -312,9 +312,26 @@ body {
   width: 580px;
 }
 @media screen and (max-width: 992px) {
+  #blog .box {
+    margin: 8px 0;
+  }
   #blog .imgbox {
-    width: 200px;
+    width: 360px;
     height: 150px;
+  }
+  #blog .imgbox .textbox {
+    margin: 0 10px;
+  }
+  #blog .imgbox .textbox h2 {
+    font-size: 16px;
+  }
+  #blog .imgbox .textbox h4 {
+    font-size: 12px;
+    margin: 6px 0;
+  }
+  #blog .imgbox .textbox p {
+    font-size: 12px;
+    margin: auto;
   }
 }
 
